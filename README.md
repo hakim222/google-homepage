@@ -1,0 +1,1 @@
+This is a project to recreate google homepage using html and css by inspecting elements on the google chrome web development tool
