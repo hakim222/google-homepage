@@ -3,12 +3,12 @@ div {
 }
 
 #logo {
-    margin-top: 89px;
+    margin-top: 150px;
 }
 
 #logo img {
     display: block;
-    height: 200px;
+    height: 180px;
     width: auto;
     margin-left: auto;
     margin-right: auto;
@@ -19,7 +19,7 @@ div {
     margin-top: 20px;
 }
 
-#search-bar input{
+#search-bar input {
     height: 40px;
     width: 500px;
     display: block;
@@ -29,3 +29,24 @@ div {
     box-shadow: none;
     border: 1px solid #dfe1e5;
 }
+
+center {
+    margin-top: 20px;
+    display: block;
+    text-align: -webkit-center;
+}
+
+button {
+    color: #5f6368;
+    background-color: #f2f2f2;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0px 16px;
+    height: 40px;
+    width: auto;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+}
+
+
